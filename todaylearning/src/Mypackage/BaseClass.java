@@ -11,4 +11,4 @@ public class BaseClass {
         System.out.println("Protected value: " + protectedValue);
     }
 }
-
+.
